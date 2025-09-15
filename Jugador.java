@@ -40,3 +40,4 @@ public class Jugador {
         return "STATE: "+estado;
     }
 }
+    

@@ -10,6 +10,7 @@ int[][] prueba = new int[5][10];
         Sala sala=new Sala();
     }
 
+}
+
     
 
-}

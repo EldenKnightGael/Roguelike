@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Random;
-public class Control {
+public class Control{
     Jugador jugador=new Jugador(100, 10, 0, "Sano");
     Enemigos enem=new Enemigos(50, 20, 5, "Sano");
 

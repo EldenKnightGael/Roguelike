@@ -10,7 +10,7 @@ public class Enemigos {
         this.daño=dmg;
         this.defensa=def;
         this.estado=stat;
-        int[0] enem=new Enemigos(50, 10, 5, "Sano");
+        int[] enem=new Enemigos(50, 10, 5, "Sano");
     }
 
     public int getSalud(){
@@ -43,4 +43,6 @@ public class Enemigos {
     }
 }
     
+
+
 
